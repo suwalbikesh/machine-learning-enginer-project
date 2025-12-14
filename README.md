@@ -1,9 +1,3 @@
-Below is a **clean, professional, GitHub-ready `README.md`** for your project.
-You can **copy-paste this directly into your GitHub repository**.
-It is written to satisfy **Codecademy project requirements**, **ML Engineer hiring expectations**, and **portfolio best practices**.
-
----
-
 # 🧠 End-to-End Machine Learning Pipeline
 
 ## Customer Value Prediction using Online Retail Data
@@ -259,9 +253,9 @@ A **production-ready pipeline** was created using `scikit-learn`:
 
 If you’d like to discuss this project or collaborate, feel free to connect:
 
-* **GitHub:** your-username
-* **LinkedIn:** your-linkedin
-* **Email:** your-email
+* **GitHub:** [bikesh suwal](https://github.com/suwalbikesh)
+* **LinkedIn:** [bikesh suwal](https://www.linkedin.com/in/bikesh-suwal/)
+* **Email:** suwalbikezh@gmail.com
 
 ---
 
