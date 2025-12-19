@@ -219,25 +219,6 @@ A **production-ready pipeline** was created using `scikit-learn`:
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_modeling.ipynb
-├── src/
-│   ├── pipeline.py
-│   ├── train.py
-├── README.md
-├── requirements.txt
-```
-
----
-
 ## 🧑‍💻 Tools & Technologies
 
 * Python
